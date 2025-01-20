@@ -1,6 +1,6 @@
 # Genesis server
 
-[Project demo](https://genesis-server-production.up.railway.app)
+[Project demo](https://genesis-server-production-3676.up.railway.app/)
 
 ## Description
 
